@@ -1,11 +1,9 @@
-PyPy unofficial builds
-######################
+# PyPy unofficial builds
 
 This repository contains various unoffcial builds of [PyPy](http://pypy.org/),
 for distributions not supported by the official builds.
 
-Contents
-========
+## Contents
 
 ```
 pypy-2.2.1-wheezy-amd64.tar.bz2
